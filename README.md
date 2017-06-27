@@ -1,3 +1,7 @@
+![Build Status](https://codeship.com/projects/<2e168cb0-3cdf-0135-9cfd-46abcfe07161>/status?branch=master)
+![Code Climate](https://codeclimate.com/github/<Bskarol>/<runner_reviews>.png)
+![Coverage Status](https://coveralls.io/repos/<Bskarol>/<runner_reviews>/badge.png)
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,7 +26,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-![Build Status](https://codeship.com/projects/<2e168cb0-3cdf-0135-9cfd-46abcfe07161>/status?branch=master)
-![Code Climate](https://codeclimate.com/github/<Bskarol>/<runner_reviews>.png)
-![Coverage Status](https://coveralls.io/repos/<Bskarol>/<runner_reviews>/badge.png)
