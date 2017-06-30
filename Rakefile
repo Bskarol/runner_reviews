@@ -4,12 +4,3 @@
 require_relative 'config/application'
 
 Rails.application.load_tasks
-
-# Rakefile
-require 'sinatra/activerecord/rake'
-
-namespace :db do
-  task :load_config do
-    require './server'
-  end
-end
